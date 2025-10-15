@@ -1,342 +1,189 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Professional Developer Profile</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: #0d1117;
-            color: #c9d1d9;
-            line-height: 1.6;
-            padding: 40px 20px;
-        }
+# 👋 Hola, soy David Fernández Morilla
 
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            animation: fadeIn 0.8s ease-in;
-        }
+### Full Stack Developer | AI Development Specialist
 
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+[![GitHub followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
 
-        .header {
-            border-bottom: 1px solid #30363d;
-            padding-bottom: 30px;
-            margin-bottom: 40px;
-        }
+</div>
 
-        .name {
-            font-size: 2.5em;
-            font-weight: 600;
-            color: #f0f6fc;
-            margin-bottom: 8px;
-            letter-spacing: -0.5px;
-            animation: slideInLeft 0.6s ease-out;
-        }
+---
 
-        @keyframes slideInLeft {
-            from {
-                opacity: 0;
-                transform: translateX(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
-        }
+## 🚀 Sobre Mí
 
-        .title {
-            font-size: 1.25em;
-            color: #8b949e;
-            font-weight: 400;
-            margin-bottom: 20px;
-            animation: slideInLeft 0.6s ease-out 0.1s backwards;
-        }
+Desarrollador Full Stack especializado en **Inteligencia Artificial** con amplia experiencia en Python y PHP. Me apasiona crear soluciones innovadoras integrando APIs de IA de última generación en aplicaciones modernas y escalables.
 
-        .specialization {
-            display: inline-block;
-            padding: 6px 16px;
-            background: #1f6feb;
-            color: #fff;
-            border-radius: 6px;
-            font-size: 0.9em;
-            font-weight: 500;
-            animation: slideInLeft 0.6s ease-out 0.2s backwards;
-            transition: transform 0.3s ease;
-        }
+```python
+class Developer:
+    def __init__(self):
+        self.name = "David Fernández Morilla"
+        self.role = "Full Stack Developer"
+        self.specialization = "AI Development"
+        self.languages = ["Python", "PHP", "JavaScript", "TypeScript"]
+        
+    def say_hi(self):
+        print("Transformando ideas en soluciones inteligentes")
 
-        .specialization:hover {
-            transform: scale(1.05);
-        }
+me = Developer()
+me.say_hi()
+```
 
-        .section {
-            margin-bottom: 50px;
-            animation: fadeInUp 0.6s ease-out backwards;
-        }
+---
 
-        .section:nth-child(2) { animation-delay: 0.3s; }
-        .section:nth-child(3) { animation-delay: 0.4s; }
-        .section:nth-child(4) { animation-delay: 0.5s; }
-        .section:nth-child(5) { animation-delay: 0.6s; }
-        .section:nth-child(6) { animation-delay: 0.7s; }
+## 🛠️ Stack Tecnológico
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+### Backend
 
-        .section-title {
-            font-size: 1.5em;
-            color: #f0f6fc;
-            font-weight: 600;
-            margin-bottom: 20px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+**Python**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-        .section-title::before {
-            content: '';
-            width: 4px;
-            height: 24px;
-            background: #1f6feb;
-            border-radius: 2px;
-            animation: expandHeight 0.4s ease-out;
-        }
+**PHP**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 
-        @keyframes expandHeight {
-            from {
-                height: 0;
-            }
-            to {
-                height: 24px;
-            }
-        }
+### Frontend
 
-        .description {
-            color: #8b949e;
-            font-size: 1.05em;
-            margin-bottom: 25px;
-        }
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-        }
+### Bases de Datos
 
-        .tech-category {
-            background: #161b22;
-            border: 1px solid #30363d;
-            border-radius: 8px;
-            padding: 20px;
-            transition: all 0.3s ease;
-        }
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-        .tech-category:hover {
-            border-color: #1f6feb;
-            transform: translateY(-5px);
-            box-shadow: 0 5px 15px rgba(31, 111, 235, 0.2);
-        }
+### DevOps & Cloud
 
-        .tech-category h3 {
-            color: #f0f6fc;
-            font-size: 1em;
-            font-weight: 600;
-            margin-bottom: 12px;
-        }
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-        .tech-list {
-            list-style: none;
-        }
+---
 
-        .tech-list li {
-            color: #8b949e;
-            padding: 4px 0;
-            font-size: 0.95em;
-            transition: color 0.2s ease, transform 0.2s ease;
-        }
+## 🤖 Especialización en IA
 
-        .tech-list li:hover {
-            color: #1f6feb;
-            transform: translateX(5px);
-        }
+<table>
+<tr>
+<td width="50%">
 
-        .expertise-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 15px;
-        }
+### 🔮 Integración de APIs
+- OpenAI GPT-4 / GPT-3.5
+- Anthropic Claude
+- Google Gemini
+- Hugging Face Models
 
-        .expertise-item {
-            background: #161b22;
-            border: 1px solid #30363d;
-            padding: 16px 20px;
-            border-radius: 6px;
-            color: #c9d1d9;
-            font-size: 0.95em;
-            transition: all 0.3s ease;
-        }
+### 🧠 Desarrollo con LLMs
+- Implementación de chatbots
+- Asistentes virtuales
+- Sistemas conversacionales
+- Automatización con IA
 
-        .expertise-item:hover {
-            border-color: #1f6feb;
-            transform: translateX(5px);
-            background: #1a1f26;
-        }
+</td>
+<td width="50%">
 
-        .contact-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-        }
+### 🔍 Tecnologías IA
+- LangChain & LlamaIndex
+- RAG (Retrieval Augmented Generation)
+- Vector Databases (Pinecone, ChromaDB)
+- Embeddings & Semantic Search
 
-        .contact-link {
-            display: block;
-            text-align: center;
-            padding: 12px 24px;
-            background: #161b22;
-            border: 1px solid #30363d;
-            border-radius: 6px;
-            color: #c9d1d9;
-            text-decoration: none;
-            font-weight: 500;
-            transition: all 0.3s ease;
-        }
+### ⚡ Áreas de Enfoque
+- Prompt Engineering
+- AI Agents Development
+- NLP Applications
+- Workflow Automation
 
-        .contact-link:hover {
-            background: #1f6feb;
-            border-color: #1f6feb;
-            color: #fff;
-            transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(31, 111, 235, 0.3);
-        }
+</td>
+</tr>
+</table>
 
-        @media (max-width: 768px) {
-            .name {
-                font-size: 2em;
-            }
-            
-            .tech-grid, .expertise-grid, .contact-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header class="header">
-            <h1 class="name">David Fernández Morilla</h1>
-            <p class="title">Full Stack Developer</p>
-            <span class="specialization">AI Development Specialist</span>
-        </header>
+---
 
-        <section class="section">
-            <h2 class="section-title">Sobre Mí</h2>
-            <p class="description">
-                Desarrollador Full Stack especializado en la integración de Inteligencia Artificial en aplicaciones modernas. Experto en Python y PHP, con dominio de sus principales frameworks. Enfocado en crear soluciones escalables que aprovechan APIs de IA y herramientas de última generación para resolver problemas complejos del mundo real.
-            </p>
-        </section>
+## 💼 Lo que Hago
 
-        <section class="section">
-            <h2 class="section-title">Stack Tecnológico</h2>
-            <div class="tech-grid">
-                <div class="tech-category">
-                    <h3>Frontend</h3>
-                    <ul class="tech-list">
-                        <li>React / Next.js</li>
-                        <li>Vue.js / Nuxt</li>
-                        <li>TypeScript / JavaScript</li>
-                        <li>Tailwind CSS</li>
-                    </ul>
-                </div>
-                <div class="tech-category">
-                    <h3>Backend - Python</h3>
-                    <ul class="tech-list">
-                        <li>Django</li>
-                        <li>Flask</li>
-                        <li>FastAPI</li>
-                        <li>Pyramid</li>
-                    </ul>
-                </div>
-                <div class="tech-category">
-                    <h3>Backend - PHP</h3>
-                    <ul class="tech-list">
-                        <li>Laravel</li>
-                        <li>Symfony</li>
-                        <li>CodeIgniter</li>
-                        <li>Slim</li>
-                    </ul>
-                </div>
-                <div class="tech-category">
-                    <h3>Infraestructura</h3>
-                    <ul class="tech-list">
-                        <li>Docker / Kubernetes</li>
-                        <li>AWS / Azure / GCP</li>
-                        <li>PostgreSQL / MySQL</li>
-                        <li>MongoDB / Redis</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
+```javascript
+const myExpertise = {
+    buildIntelligentApps: () => {
+        return "Desarrollo aplicaciones que integran IA de forma natural";
+    },
+    
+    createChatbots: () => {
+        return "Diseño asistentes conversacionales inteligentes";
+    },
+    
+    implementRAG: () => {
+        return "Construyo sistemas de búsqueda semántica avanzados";
+    },
+    
+    automateWithAI: () => {
+        return "Automatizo procesos complejos usando IA";
+    }
+};
+```
 
-        <section class="section">
-            <h2 class="section-title">Desarrollo con IA</h2>
-            <div class="expertise-grid">
-                <div class="expertise-item">Integración de APIs de IA (OpenAI, Anthropic, Google AI)</div>
-                <div class="expertise-item">Desarrollo de aplicaciones con LLMs</div>
-                <div class="expertise-item">Implementación de RAG Systems</div>
-                <div class="expertise-item">Prompt Engineering & Optimization</div>
-                <div class="expertise-item">AI Agents & Chatbots</div>
-                <div class="expertise-item">Procesamiento de Lenguaje Natural</div>
-                <div class="expertise-item">LangChain & LlamaIndex</div>
-                <div class="expertise-item">Vector Databases & Embeddings</div>
-            </div>
-        </section>
+---
 
-        <section class="section">
-            <h2 class="section-title">Áreas de Enfoque</h2>
-            <p class="description">
-                • Desarrollo de aplicaciones inteligentes integrando APIs de IA<br>
-                • Creación de chatbots conversacionales y asistentes virtuales<br>
-                • Implementación de sistemas de búsqueda semántica<br>
-                • Automatización de procesos mediante IA<br>
-                • Diseño de interfaces conversacionales y sistemas de recomendación<br>
-                • Optimización de prompts y flujos de conversación
-            </p>
-        </section>
+## 📊 GitHub Stats
 
-        <section class="section">
-            <h2 class="section-title">Contacto</h2>
-            <div class="contact-grid">
-                <a href="#" class="contact-link">GitHub</a>
-                <a href="#" class="contact-link">LinkedIn</a>
-                <a href="#" class="contact-link">Email</a>
-                <a href="#" class="contact-link">Portfolio</a>
-            </div>
-        </section>
-    </div>
-</body>
-</html>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Proyectos Destacados
+
+### 🔥 [Nombre Proyecto 1](https://github.com/tuusuario/proyecto1)
+Aplicación inteligente que integra GPT-4 para [descripción breve]
+
+**Tech Stack:** `Python` `FastAPI` `React` `OpenAI` `PostgreSQL`
+
+### 🚀 [Nombre Proyecto 2](https://github.com/tuusuario/proyecto2)
+Sistema de chatbot conversacional con RAG para [descripción breve]
+
+**Tech Stack:** `PHP` `Laravel` `Vue.js` `LangChain` `Pinecone`
+
+### ⚡ [Nombre Proyecto 3](https://github.com/tuusuario/proyecto3)
+Herramienta de automatización con IA para [descripción breve]
+
+**Tech Stack:** `Python` `Django` `Next.js` `Anthropic Claude`
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+**¿Tienes un proyecto en mente? ¡Hablemos!**
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correo@davidfdzmorilla.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://davidfdzmorilla.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "La IA no reemplaza a los desarrolladores, potencia su creatividad"
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tuusuario.tuusuario)
+
+</div>
