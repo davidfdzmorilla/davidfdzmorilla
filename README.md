@@ -2,11 +2,11 @@
 
 # 👋 Hola, soy David Fernández Morilla
 
-### Full Stack Developer | AI Development Specialist
+### Full Stack Developer | AI Integration Specialist
 
-[![GitHub followers](https://img.shields.io/github/followers/tuusuario?style=social)](https://github.com/tuusuario)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+[![GitHub followers](https://img.shields.io/github/followers/davidfdzmorilla?style=social)](https://github.com/davidfdzmorilla)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidfdzmorilla)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:david@kaleidostudio.com)
 
 </div>
 
@@ -14,21 +14,25 @@
 
 ## 🚀 Sobre Mí
 
-Desarrollador Full Stack especializado en **Inteligencia Artificial** con amplia experiencia en Python y PHP. Me apasiona crear soluciones innovadoras integrando APIs de IA de última generación en aplicaciones modernas y escalables.
+Desarrollador Full Stack con 4 años de experiencia, especializado en **integración de IA** y **automatización de procesos**. Transformo operaciones manuales en sistemas inteligentes que escalan.
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "David Fernández Morilla"
-        self.role = "Full Stack Developer"
-        self.specialization = "AI Development"
-        self.languages = ["Python", "PHP", "JavaScript", "TypeScript"]
+        self.role = "AI Integration Specialist"
+        self.experience = "4 years"
+        self.passion = "Building intelligent systems"
         
-    def say_hi(self):
-        print("Transformando ideas en soluciones inteligentes")
+    def current_focus(self):
+        return [
+            "AI chatbots with Claude & OpenAI",
+            "Process automation with AI",
+            "Full-stack development with modern tech"
+        ]
 
 me = Developer()
-me.say_hi()
+print(me.current_focus())
 ```
 
 ---
@@ -37,39 +41,34 @@ me.say_hi()
 
 ### Backend
 
-**Python**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**PHP**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### Bases de Datos
+### Bases de Datos & Cache
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=flat&logo=traefik-proxy&logoColor=white)
 
 ---
 
@@ -79,32 +78,32 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🔮 Integración de APIs
-- OpenAI GPT-4 / GPT-3.5
-- Anthropic Claude
-- Google Gemini
-- Hugging Face Models
+### 🔮 APIs de IA
+- **OpenAI** GPT-4, GPT-4o
+- **Anthropic Claude** (Sonnet, Haiku)
+- Custom AI integrations
+- Prompt engineering
 
-### 🧠 Desarrollo con LLMs
-- Implementación de chatbots
-- Asistentes virtuales
-- Sistemas conversacionales
+### 🧠 Desarrollo
+- Chatbots inteligentes
+- Asistentes conversacionales
 - Automatización con IA
+- Workflows inteligentes
 
 </td>
 <td width="50%">
 
-### 🔍 Tecnologías IA
-- LangChain & LlamaIndex
-- RAG (Retrieval Augmented Generation)
-- Vector Databases (Pinecone, ChromaDB)
-- Embeddings & Semantic Search
+### 🔧 Herramientas
+- LangChain
+- RAG implementations
+- Vector databases
+- API integrations
 
-### ⚡ Áreas de Enfoque
-- Prompt Engineering
-- AI Agents Development
-- NLP Applications
-- Workflow Automation
+### ⚡ Experiencia
+- E-commerce con IA
+- Sistemas de soporte automatizados
+- Arquitecturas microservicios
+- Cloud infrastructure (AWS)
 
 </td>
 </tr>
@@ -116,23 +115,44 @@ me.say_hi()
 
 ```javascript
 const myExpertise = {
-    buildIntelligentApps: () => {
-        return "Desarrollo aplicaciones que integran IA de forma natural";
+    aiIntegration: {
+        chatbots: "Asistentes 24/7 con Claude/OpenAI",
+        automation: "Procesos repetitivos → sistemas inteligentes",
+        results: "Reducción 60-70% en carga operativa"
     },
     
-    createChatbots: () => {
-        return "Diseño asistentes conversacionales inteligentes";
+    fullStack: {
+        frontend: "React, Next.js 14, TypeScript",
+        backend: "FastAPI, Express, Symfony",
+        infrastructure: "Docker Compose, AWS, Traefik"
     },
     
-    implementRAG: () => {
-        return "Construyo sistemas de búsqueda semántica avanzados";
-    },
-    
-    automateWithAI: () => {
-        return "Automatizo procesos complejos usando IA";
+    delivery: {
+        speed: "De concepto a producción en semanas",
+        quality: "Código limpio, tests, documentación",
+        focus: "Resultados medibles para el negocio"
     }
 };
 ```
+
+---
+
+## 🎯 Proyectos Destacados
+
+### 🏥 E-Commerce Farmacéutico (€600K revenue)
+Sistema completo con arquitectura microservicios, chatbot inteligente integrado con inventario, y automatización que redujo consultas manuales en 70%.
+
+**Stack:** `Next.js 14` `FastAPI` `PostgreSQL` `Redis` `AWS ECS` `Claude API` `Docker`
+
+### 🤖 AI Chatbot Framework
+Framework reutilizable para implementar chatbots inteligentes con integraciones personalizadas en 3 semanas.
+
+**Stack:** `Python` `FastAPI` `React` `OpenAI/Claude` `WebSockets`
+
+### ⚙️ Workflow Automation Tools
+Scripts y herramientas de automatización para procesos empresariales usando IA.
+
+**Stack:** `Python` `APIs IA` `Scripting` `Automation`
 
 ---
 
@@ -140,30 +160,25 @@ const myExpertise = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidfdzmorilla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfdzmorilla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🌟 Servicios Freelance
 
-### 🔥 [Nombre Proyecto 1](https://github.com/tuusuario/proyecto1)
-Aplicación inteligente que integra GPT-4 para [descripción breve]
+Actualmente disponible para proyectos de:
+- 🤖 **Integración de IA** en aplicaciones existentes
+- 💬 **Chatbots inteligentes** con Claude/OpenAI
+- ⚡ **Automatización** de procesos repetitivos
+- 🚀 **MVPs full-stack** con IA integrada
 
-**Tech Stack:** `Python` `FastAPI` `React` `OpenAI` `PostgreSQL`
-
-### 🚀 [Nombre Proyecto 2](https://github.com/tuusuario/proyecto2)
-Sistema de chatbot conversacional con RAG para [descripción breve]
-
-**Tech Stack:** `PHP` `Laravel` `Vue.js` `LangChain` `Pinecone`
-
-### ⚡ [Nombre Proyecto 3](https://github.com/tuusuario/proyecto3)
-Herramienta de automatización con IA para [descripción breve]
-
-**Tech Stack:** `Python` `Django` `Next.js` `Anthropic Claude`
+**Velocidad:** De idea a producción en 3 semanas  
+**Stack moderno:** Next.js, FastAPI, AWS, IA  
+**Resultados medibles:** Reducción comprobada en costes operativos
 
 ---
 
@@ -171,10 +186,11 @@ Herramienta de automatización con IA para [descripción breve]
 
 <div align="center">
 
-**¿Tienes un proyecto en mente? ¡Hablemos!**
+**¿Tienes un proyecto que requiere IA? ¡Hablemos!**
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correo@davidfdzmorilla.dev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://davidfdzmorilla.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kaleidostudio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidfdzmorilla)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@kaleidostudio.com)
 
 </div>
 
@@ -182,8 +198,8 @@ Herramienta de automatización con IA para [descripción breve]
 
 <div align="center">
 
-### 💡 "La IA no reemplaza a los desarrolladores, potencia su creatividad"
+### 💡 "Transformo operaciones manuales en sistemas inteligentes"
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tuusuario.tuusuario)
+![Profile Views](https://komarev.com/ghpvc/?username=davidfdzmorilla&color=blueviolet&style=flat-square)
 
 </div>
