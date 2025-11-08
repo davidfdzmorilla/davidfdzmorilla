@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/davidfdzmorilla?style=social)](https://github.com/davidfdzmorilla)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidfdzmorilla)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:david@kaleidostudio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:correo@davidfdzmorilla.dev)
 
 </div>
 
@@ -14,14 +14,13 @@
 
 ## 🚀 Sobre Mí
 
-Desarrollador Full Stack con 4 años de experiencia, especializado en **integración de IA** y **automatización de procesos**. Transformo operaciones manuales en sistemas inteligentes que escalan.
+Desarrollador Full Stack, especializado en **integración de IA** y **automatización de procesos**. Transformo operaciones manuales en sistemas inteligentes que escalan.
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "David Fernández Morilla"
         self.role = "AI Integration Specialist"
-        self.experience = "4 years"
         self.passion = "Building intelligent systems"
         
     def current_focus(self):
@@ -168,29 +167,15 @@ Scripts y herramientas de automatización para procesos empresariales usando IA.
 
 ---
 
-## 🌟 Servicios Freelance
-
-Actualmente disponible para proyectos de:
-- 🤖 **Integración de IA** en aplicaciones existentes
-- 💬 **Chatbots inteligentes** con Claude/OpenAI
-- ⚡ **Automatización** de procesos repetitivos
-- 🚀 **MVPs full-stack** con IA integrada
-
-**Velocidad:** De idea a producción en 3 semanas  
-**Stack moderno:** Next.js, FastAPI, AWS, IA  
-**Resultados medibles:** Reducción comprobada en costes operativos
-
----
-
 ## 📫 Contacto
 
 <div align="center">
 
 **¿Tienes un proyecto que requiere IA? ¡Hablemos!**
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kaleidostudio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://davidfdzmorilla.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidfdzmorilla)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david@kaleidostudio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:correo@davidfdzmorilla.dev)
 
 </div>
 
