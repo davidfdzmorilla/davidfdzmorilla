@@ -20,8 +20,8 @@ Desarrollador Full Stack, especializado en **integración de IA** y **automatiza
 class Developer:
     def __init__(self):
         self.name = "David Fernández Morilla"
-        self.role = "AI Integration Specialist"
-        self.passion = "Full Stack Developer | AI Integration Specialist"
+        self.role = "Full Stack Developer | AI Integration Specialist"
+        self.passion = "Building intelligent systems"
         
     def current_focus(self):
         return [
