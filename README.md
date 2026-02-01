@@ -21,7 +21,7 @@ class Developer:
     def __init__(self):
         self.name = "David Fernández Morilla"
         self.role = "AI Integration Specialist"
-        self.passion = "Building intelligent systems"
+        self.passion = "Full Stack Developer | AI Integration Specialist"
         
     def current_focus(self):
         return [
