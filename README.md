@@ -134,39 +134,6 @@ const myExpertise = {
 };
 ```
 
----
-
-## 🎯 Proyectos Destacados
-
-### 🏥 E-Commerce Farmacéutico (€600K revenue)
-Sistema completo con arquitectura microservicios, chatbot inteligente integrado con inventario, y automatización que redujo consultas manuales en 70%.
-
-**Stack:** `Next.js 14` `FastAPI` `PostgreSQL` `Redis` `AWS ECS` `Claude API` `Docker`
-
-### 🤖 AI Chatbot Framework
-Framework reutilizable para implementar chatbots inteligentes con integraciones personalizadas en 3 semanas.
-
-**Stack:** `Python` `FastAPI` `React` `OpenAI/Claude` `WebSockets`
-
-### ⚙️ Workflow Automation Tools
-Scripts y herramientas de automatización para procesos empresariales usando IA.
-
-**Stack:** `Python` `APIs IA` `Scripting` `Automation`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidfdzmorilla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidfdzmorilla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
