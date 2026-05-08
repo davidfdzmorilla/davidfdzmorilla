@@ -10,7 +10,7 @@ Five published CVEs on WordPress plugins under the **NyxSec** handle (Wordfence 
 
 ### Pinned
 
-The four projects below are the public ones. The rest of my active work — bug bounty pipeline, kaleido conversational platform, formate.es, gofestivals, multi-agent orchestration — lives behind closed source. The portfolio covers everything.
+The four projects below are the public ones. Most of my active work is closed source but lives in production: the bug bounty pipeline, [kaleido](https://kaleidostudio.davidfdzmorilla.dev) (multi-channel conversational platform), [wedding](https://wedding.davidfdzmorilla.dev) (multi-tenant wedding SaaS), [gofestivals](https://gofestivals.es) (electronic music festivals platform), and a multi-agent orchestration ecosystem. The portfolio covers everything.
 
 **[radio-gofestivals](https://github.com/davidfdzmorilla/radio-gofestivals)** — Curated electronic music radio platform. 1,300+ stations across 12 genres with multi-stream auto-fallback, hybrid auth (anonymous favorites + optional sync), real-time spectrum analyzer. FastAPI + Postgres + Redis + Next.js 14, ICY metadata worker. Live at [radio.gofestivals.eu](https://radio.gofestivals.eu).
 
