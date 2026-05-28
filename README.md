@@ -2,7 +2,7 @@
 
 Independent developer based in Vigo, Spain. I build products, operate their infrastructure and find security flaws along the way.
 
-Six published CVEs on WordPress plugins under the **NyxSec** handle (Wordfence advisories on Elementor, WPForms, Masteriyo LMS, Bookit and Five Star Restaurant Reservations). Multi-agent systems with LLM cost telemetry per pipeline. Production platforms running on self-managed infra (VPS, AWS, K3s, Docker).
+Six published CVEs on WordPress plugins under the **NyxSec** handle (Wordfence advisories on Elementor, WPForms, Masteriyo LMS, Bookit, Visualizer: Tables and Charts Manager for WordPress and Five Star Restaurant Reservations). Multi-agent systems with LLM cost telemetry per pipeline. Production platforms running on self-managed infra (VPS, AWS, K3s, Docker).
 
 → **Full work and case studies:** [davidfdzmorilla.dev](https://davidfdzmorilla.dev)
 
